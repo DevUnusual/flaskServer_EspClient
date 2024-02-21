@@ -116,8 +116,6 @@ Grave o QRCODEreader.ino no esp32Cam IA thinker
   </tr>
 </table>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pumba-dev/)
-
 ## 😄 Seja um dos Contribuidores<br>
 
 Entre em contato para se tornar um contribuidor.
@@ -129,6 +127,6 @@ Entre em contato para se tornar um contribuidor.
 
 ## 📝 Licença
 
-Copyright © 2023 Pumba Developer
+Copyright © 2023 Universidade Federal do Piaui - UFPI
 
 [⬆ Voltar ao topo](#webservice-with-socket)<br>
