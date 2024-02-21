@@ -120,11 +120,6 @@ Grave o QRCODEreader.ino no esp32Cam IA thinker
 
 Entre em contato para se tornar um contribuidor.
 
-## 💰 Donate
-
-[![PicPay](https://img.shields.io/badge/PicPay-%40PumbaDev%20-brightgreen)](https://picpay.me/pumbadev)
-[![Nubank](https://img.shields.io/badge/Nubank-Pix%20QR%20Code-blueviolet)](https://nubank.com.br/pagar/1ou9f/ifu2K7YNO7)
-
 ## 📝 Licença
 
 Copyright © 2023 Universidade Federal do Piaui - UFPI
