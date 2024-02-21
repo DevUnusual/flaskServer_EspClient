@@ -106,8 +106,8 @@ Grave o QRCODEreader.ino no esp32Cam IA thinker
     </td>
     <!-- Antonio Correia -->
     <td align="center">
-      <a href="https://github.com/usernamegran">
-        <img src="https://avatars.githubusercontent.com/u/37776927?v=4" width="100px;" height="100px;" alt="Foto do Antonio Correia"/><br>
+      <a href="https://github.com/acorreiacruz">
+        <img src="https://avatars.githubusercontent.com/u/86582096?v=4" width="100px;" height="100px;" alt="Foto do Antonio Correia"/><br>
         <sub>
           <b>Antonio Correia</b>
         </sub>
